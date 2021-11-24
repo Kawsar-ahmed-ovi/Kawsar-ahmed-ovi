@@ -1,0 +1,6 @@
+{
+printf ( enter the number of kilometre);
+scanf *( %d and kilometre);
+the law of convert is:( kilometer* 100);
+printf ( the number of kilometer to meter is:%d and f);
+}
