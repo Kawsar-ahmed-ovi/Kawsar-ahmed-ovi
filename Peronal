@@ -1,0 +1,11 @@
+<Sending unlimited message on messenger>
+main {
+import. pyauthogui
+import. time
+message:9
+while message:>0
+time.sleep (4)
+pyautogui.typewrite:( hey!! How are you?)
+time sleep (2)
+message : message-1
+}
